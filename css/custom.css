@@ -13,6 +13,12 @@ body {
   font-size: 1.2rem;
 }
 
+.img-circle {
+    border-radius: 50%;
+    margin-left: 25px;
+    margin-top: 30px;
+}
+
 .collection .collection-item.avatar {
   height: 62px;
   border-bottom: 0px
